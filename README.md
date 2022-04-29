@@ -4,7 +4,7 @@
 Move:
  - left = a
  - right = d
- - jump = w
+ - jump = w\
 Attack:
  - Spacebar
 
@@ -12,6 +12,6 @@ Attack:
 Move:
  - left = ←
  - right = →
- - jump = ↑
+ - jump = ↑\
 Attack:
  - ↓
