@@ -5,7 +5,7 @@ Move:
  - left = a
  - right = d
  - jump = w\
-\newline
+
 Attack:
  - Spacebar
 
@@ -14,6 +14,6 @@ Move:
  - left = ←
  - right = →
  - jump = ↑\
-\newline
+
 Attack:
  - ↓
